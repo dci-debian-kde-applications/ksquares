@@ -1,0 +1,20 @@
+.TH KSQUARES 6
+.SH NAME
+ksquares \- KDE Dots and Boxes game
+.SH SYNOPSIS
+.B kblackbox
+.I [Qt-options] [KDE-options] [options]
+.SH DESCRIPTION
+.B KSquares
+is a game where two players take turns connecting dots on a grid to complete
+the most squares.
+.SH OPTIONS
+.TP
+.B \-\-demo
+Run game in demo (autoplay) mode.
+.so kdeopt.part
+.SH SEE ALSO
+More detailed user documentation is available from
+.BR help:/ksquares
+(either enter this URL into \fBkonqueror\fP, or run `khelpcenter
+help:/ksquares').
