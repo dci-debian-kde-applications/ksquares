@@ -24,7 +24,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/ksquares.git
 Package: ksquares
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: Dots and Boxes game
  KSquares is a game where two players take turns connecting dots on a grid to
  complete the most squares.
