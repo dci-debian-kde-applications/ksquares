@@ -1,9 +1,13 @@
-ksquares (4:14.12.2-0ubuntu1) UNRELEASED; urgency=medium
+ksquares (4:15.04.0-1~) UNRELEASED; urgency=medium
 
+  [ Scarlett Clark ]
   * Fix version as this is part of the kde-applications suite.
   * New upstream release.
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 06 Feb 2015 20:17:29 -0800
+  [ Maximiliano Curia ]
+  * New upstream release (15.04.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 23 Apr 2015 16:46:23 +0200
 
 ksquares (4:4.12.2-2) unstable; urgency=medium
 
