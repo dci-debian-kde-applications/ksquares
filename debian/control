@@ -29,7 +29,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5widgetsaddons-dev,
                libkf5xmlgui-dev,
                pkg-kde-tools (>= 0.14),
-               qtbase5-dev (>= 5.3.0~)
+               qtbase5-dev (>= 5.4)
 Standards-Version: 3.9.5
 Homepage: http://games.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/ksquares.git
