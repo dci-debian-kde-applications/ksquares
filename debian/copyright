@@ -6,21 +6,15 @@ Upstream-Contact: Matt Williams <matt@milliams.com>
 Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 2006-2007, Matt Williams <matt@milliams.com>
+Copyright: 1989-1991, Free Software Foundation, Inc
+           2006, Matthew Williams <matt@milliams.com>
+           2006, Paolo Capriotti <p.capriotti@gmail.com>
+           2010, Stefan Majewsky <majewsky@gmx.net>
 License: GPL-2+
 
 Files: doc/*
 Copyright: 2006-2007, Matt Williams <matt@milliams.com>
 License: GFDL-1.2+
-
-Files: src/highlightanimation.cpp
-Copyright: 2006, Paolo Capriotti <p.capriotti@gmail.com>
-           2010, Stefan Majewsky <majewsky@gmx.net>
-License: GPL-2+
-
-Files: src/highlightanimation.h
-Copyright: 2006, Paolo Capriotti <p.capriotti@gmail.com>
-License: GPL-2+
 
 Files: debian/*
 Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>

@@ -1,8 +1,15 @@
-ksquares (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+ksquares (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
+  * Merged with Debian
   * New upstream release
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:17:21 +0000
+ -- Clive Johnston <clivejo@aol.com>  Tue, 09 Feb 2016 16:48:15 +0000
+
+ksquares (4:15.12.0-1) experimental; urgency=medium
+
+  * New upstream release (15.12.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 01 Feb 2016 10:24:36 +0100
 
 ksquares (4:15.08.2-0ubuntu1) wily; urgency=medium
 
@@ -16,6 +23,20 @@ ksquares (4:15.08.1-0ubuntu1) wily; urgency=medium
   * New upstream release (15.08.1)
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 17:25:39 +0100
+
+ksquares (4:15.08.0-1) unstable; urgency=medium
+
+  [ Scarlett Clark ]
+  * Fix version as this is part of the kde-applications suite.
+  * New upstream release.
+
+  [ Maximiliano Curia ]
+  * New upstream release (15.04.0).
+  * New upstream release (15.04.1).
+  * New upstream release (15.04.3).
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 10 Sep 2015 14:06:22 +0200
 
 ksquares (4:15.08.0-0ubuntu1) wily; urgency=medium
 
