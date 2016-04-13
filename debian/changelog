@@ -1,3 +1,11 @@
+ksquares (4:15.12.0-2~1.gbpd10b74) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @d10b74dcfe7d6abd4c26733c09f358b22cdb64f8 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:18:42 +0200
+
 ksquares (4:15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
