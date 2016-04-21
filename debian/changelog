@@ -1,10 +1,12 @@
-ksquares (4:15.12.0-2~1.gbpd10b74) UNRELEASED; urgency=medium
+ksquares (4:16.04.0-1~1.gbpa077bd) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @d10b74dcfe7d6abd4c26733c09f358b22cdb64f8 **
+  ** SNAPSHOT build @a077bd9f022b1dfb8c30d7b27ad7569742bc5c40 **
 
   * Bump Standards-Version to 3.9.8
+  * Add a .gitattributes file to use dpkg-mergechangelogs
+  * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:18:42 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 04:18:15 +0200
 
 ksquares (4:15.12.0-1) experimental; urgency=medium
 
