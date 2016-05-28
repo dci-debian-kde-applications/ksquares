@@ -1,12 +1,16 @@
-ksquares (4:16.04.0-1~1.gbpa077bd) UNRELEASED; urgency=medium
+ksquares (4:16.04.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @a077bd9f022b1dfb8c30d7b27ad7569742bc5c40 **
-
+  [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
   * Add a .gitattributes file to use dpkg-mergechangelogs
   * Update build-deps and deps with the info from cmake
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 04:18:15 +0200
+  [ Maximiliano Curia ]
+  * Remove menu file and friends
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:47:26 +0200
 
 ksquares (4:15.12.0-1) experimental; urgency=medium
 
