@@ -1,3 +1,11 @@
+ksquares (4:16.08.0-1~1.gbp58486b) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @58486bd65a39973750fc4ef0905a4c97ac30bcae **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 22:18:16 +0200
+
 ksquares (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
