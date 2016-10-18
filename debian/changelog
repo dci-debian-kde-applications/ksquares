@@ -1,10 +1,8 @@
-ksquares (4:16.08.0-1~1.gbp58486b) UNRELEASED; urgency=medium
+ksquares (4:16.08.0-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @58486bd65a39973750fc4ef0905a4c97ac30bcae **
+  * New upstream release (16.08.0)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 22:18:16 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 00:13:25 +0200
 
 ksquares (4:16.04.0-1) unstable; urgency=medium
 
