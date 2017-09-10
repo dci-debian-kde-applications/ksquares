@@ -40,6 +40,8 @@ Package: ksquares
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: Dots and Boxes game
  KSquares is a game where two players take turns connecting dots on a grid to
  complete the most squares.
