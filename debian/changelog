@@ -12,6 +12,9 @@ ksquares (4:17.08.3-1~1) UNRELEASED; urgency=medium
     drop translations.
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
+  * Stop forcing debian/tmp as local installation directory, installing
+    everything to the final location
+    - drop ksquares.install, no more useful now
 
  -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 11:25:51 +0100
 
