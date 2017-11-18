@@ -15,6 +15,7 @@ ksquares (4:17.08.3-1~1) UNRELEASED; urgency=medium
   * Stop forcing debian/tmp as local installation directory, installing
     everything to the final location
     - drop ksquares.install, no more useful now
+  * Remove trailing whitespaces in changelog.
 
  -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 11:25:51 +0100
 
@@ -188,7 +189,7 @@ ksquares (4:14.12.3-0ubuntu1) vivid; urgency=medium
 ksquares (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
-  * Remove unstable from watch file, uscan fails with 
+  * Remove unstable from watch file, uscan fails with
     remote site does not even have current version
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 07:54:30 -0800
